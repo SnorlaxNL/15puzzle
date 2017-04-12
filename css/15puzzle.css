@@ -1,15 +1,14 @@
-div.game  {
+.game  {
   position: absolute;
   display: inline-block;
   height: 427px;
-  width:427px;
+  width: 427px;
   line-height: 0px;
   background-color: rgba(220,220,220,50);
   box-shadow: 0px 0px 3px white;
 }
 
-img.gameCell  {
-  margin: 0px;
+.gameCell  {
   display: inline-block;
   margin: 3px;
   box-shadow: 3px 3px 3px gray;
